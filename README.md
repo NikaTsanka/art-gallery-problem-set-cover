@@ -6,4 +6,4 @@ Approximation is repeated until at most 5% of the gallery is not covered.
 
 Results: The chosen guard positions are red dots, the covered areas are blue dots, *roses are red, violets are blue, I'm seeing a future filled with me and :pizza: jk* :smile: and not covered areas are black.
 
-![alt text](https://github.com/NikaTsanka/ "Mode: Command-Line")
+![alt text](https://github.com/NikaTsanka/art-gallery-problem-set-cover/blob/master/demo.gif "Demo")
