@@ -1,9 +1,3 @@
-/*
- * CSC I0600 - Fundamental Algorithms - Fall Semester 2016
- * Homework Project 4
- * Nika Tsankashvili
- * */
-
 #include <iostream>
 #include <X11/Xlib.h>
 #include <X11/Xutil.h>
